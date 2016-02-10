@@ -1,2 +1,2 @@
 print ("My name is Malkova Yulia, I was born in Russia")
-print ("I have graduated from "National Research Nuclear University at 2015")
+print ("I have graduated from "National Research Nuclear University on the 21st of April 2015")
